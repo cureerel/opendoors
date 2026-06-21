@@ -1,0 +1,17 @@
+# MAC_OS
+.DS_Store
+
+
+# IDE
+.vscode/
+.idea/
+.zed/
+
+
+# cache
+.cache/
+
+# Environment
+.env
+.env.local
+.env.*.local
